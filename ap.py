@@ -1,6 +1,6 @@
 print("DEDEDEFLNGBN12323")
 
-print("frkgnr)
+print("frkgnrdetkjlhtwepotjhjkbwhetweojthjbhvfd)
 
 print("frkgnr)
 
